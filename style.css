@@ -1,0 +1,56 @@
+.home-navbar:hover {
+  color: blue !important;
+}
+
+h1 {
+  color: #8c0502;
+  text-align: center;
+}
+
+h2 {
+  color: #3437ff;
+  background-color: #cbd4ff;
+  text-align: center;
+}
+
+.container {
+  padding: 5px;
+}
+
+.img-satu {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.img-dua {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.img-tiga {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.img-empat {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.img-lima {
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+.img-enam {
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+footer {
+  background-color: #ffcccb;
+  padding: 10px;
+  margin: 10px;
+}
